@@ -1,0 +1,13 @@
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+th {
+    text-align: right;
+    padding: 5px;
+}
+
+.error {
+    color: red;
+}
